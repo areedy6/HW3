@@ -20,7 +20,7 @@ function random(length) {
 }
     //console.log(random(1))
 
-alert("Your password is " + random(length))
+//alert("Your password is " + random(length))
 
 
 
